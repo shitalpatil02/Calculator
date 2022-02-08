@@ -1,0 +1,54 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 34px;
+    border: 5px solid #050505;
+    border-radius: 21px;
+    
+}
+
+button{
+    font-size: 40px;
+    background-color: #f47575;
+    width: 102px;
+    height: 58px;
+    border-radius: 20px;
+
+}
+
+.calculator{
+    display: inline-block;
+    background-color: #887cc1;
+    padding: 23px;
+    border-radius: 53px;
+    border: 2px solid black
+    
+}
+
+.background{
+    background-image: url('about\ me.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+.container h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.info h1{
+    text-align: center;
+}
+
+.info p{
+    text-align: center;
+    
+}
+
